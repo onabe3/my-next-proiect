@@ -8,6 +8,6 @@ export type News = {
   category: {
     name: string;
   };
-  publishdAt: string;
+  publishedAt: string;
   createdAt: string;
 };

@@ -14,7 +14,7 @@ const data: {
       category: {
         name: "更新情報",
       },
-      publicshedAt: "2023/05/19",
+      publishedAt: "2023/05/19",
       createdAt: "2023/05/19",
     },
     {
@@ -23,7 +23,7 @@ const data: {
       category: {
         name: "更新情報",
       },
-      publicshedAt: "2023/05/19",
+      publishedAt: "2023/05/19",
       createdAt: "2023/05/19",
     },
     {
@@ -32,7 +32,7 @@ const data: {
       category: {
         name: "更新情報",
       },
-      publicshedAt: "2024/09/20",
+      publishedAt: "2024/09/20",
       createdAt: "2024/09/20",
     },
   ],
